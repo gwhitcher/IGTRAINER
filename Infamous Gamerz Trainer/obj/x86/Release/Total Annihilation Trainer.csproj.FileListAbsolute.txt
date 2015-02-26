@@ -1,0 +1,9 @@
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\bin\Release\Total Annihilation Trainer.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\bin\Release\Total Annihilation Trainer.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\Total_Annihilation_Trainer.hMainWindow.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\Total_Annihilation_Trainer.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\Total Annihilation Trainer.exe
+C:\Users\John\Documents\Visual Studio 2010\Projects\Total Annihilation Trainer\Total Annihilation Trainer\obj\x86\Release\Total Annihilation Trainer.pdb
